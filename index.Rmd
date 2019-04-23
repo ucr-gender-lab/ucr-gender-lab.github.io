@@ -26,7 +26,7 @@
 
 ####
 
-#### Please visit our [projects](www.gender_lab.github.io/projects.html) tab for more information about our research groups and our progress.
+#### Please visit our [projects](https://ucr-gender-lab.github.io/projects.html) tab for more information about our research groups and our progress.
 
 ####
 

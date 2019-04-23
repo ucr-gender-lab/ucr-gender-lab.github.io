@@ -3,11 +3,11 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/Political_Science_Students.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/Political_Science_Students.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
 
 
 
-For more information about the Gender Lab @ UCR, please contact [Dr. Jennifer Merolla](mailto:merolla@ucr.edu).
+#### For more information about the Gender Lab @ UCR, please contact [Dr. Jennifer Merolla](mailto:merolla@ucr.edu).
 
 
-To contact a specific member of the UCR Gender Lab, please check our [Membership](www.gender_lab.github.io/membership.html) page.
+#### To contact a specific member of the UCR Gender Lab, please check our [Membership](https://ucr-gender-lab.github.io/membership.html) page.
