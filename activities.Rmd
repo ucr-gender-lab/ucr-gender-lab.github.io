@@ -1,0 +1,47 @@
+
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<center>
+<img src="images/Political_Science_Students.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="middle">
+</center>
+
+#
+
+
+### Spring 2019
+#### Manager: Michelangelo Landgrave
+#### Teams present research at WPSA.
+#### Teams present research at MPSA.
+
+#
+
+### Winter 2019
+#### Manager: Michelangelo Landgrave
+#### Teams organize a Junior Scholar Symposium at MPSA 2019.
+#### Teams organize a panel at WPSA 2019.
+
+#
+
+### Fall 2018
+#### Manager: Stephanie L. DeMora
+
+#
+
+### Summer 2018
+#### Manager: Sierra Graves
+
+#
+
+### Spring 2018
+#### Manager: Sierra Graves
+#### First Gender Lab meeting begins
+#### Teams are created!
+
+#
+
+### Winter 2018
+#### Manager: Michelangelo Landgrave
+#### Dr. Jennifer Merolla's Women and the American Political Process course (POSC 259) is taught.
+#### Ideas for first round of teams are created.

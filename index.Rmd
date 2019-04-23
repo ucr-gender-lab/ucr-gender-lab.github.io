@@ -1,0 +1,35 @@
+
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/Political_Science_Students.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
+
+###
+
+###
+
+###
+
+###
+
+### We are the Gender Laboratory in the Department of [Political Science at the University of California, Riverside](https://politicalscience.ucr.edu/)! 
+
+###
+
+###
+
+#### Our lab is comprised of several teams which work on individual research projects but collaborate, share resources, and get together regularly.
+
+####
+
+####
+
+#### Please visit our [projects](www.gender_lab.github.io/projects.html) tab for more information about our research groups and our progress.
+
+####
+
+####
+
+#### Our current lab director is: [Dr. Jennifer Merolla](https://jennifermerollaphd.wordpress.com/).

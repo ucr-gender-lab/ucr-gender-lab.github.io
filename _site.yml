@@ -1,0 +1,23 @@
+name: "Gender Lab @ UCR"
+output_dir: "."
+navbar:
+  title: "Gender Lab @ UCR"
+  left:
+    - text: "Projects"
+      href: projects.html
+    - text: "Activities"
+      href: activities.html
+    - text: "Membership"
+      href: membership.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/search?f=tweets&vertical=default&q=UCRGenderLab&src=typd
+    - icon: fa-github fa-lg
+      href: http://github.com/SDeMora
+
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
