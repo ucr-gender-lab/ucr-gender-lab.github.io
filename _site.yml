@@ -5,10 +5,11 @@ navbar:
   left:
     - text: "Projects"
       href: projects.html
-    - text: "Activities"
-      href: activities.html
     - text: "Membership"
       href: membership.html
+    - text: "Activities"
+      href: activities.html
+
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
