@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Gender Lab @ UCR"
   left:
+    - text: "Home"
+      href: home.html
     - text: "Projects"
       href: projects.html
     - text: "Membership"
