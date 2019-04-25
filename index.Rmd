@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="OVuNJ5IqdYXq6ytIaQGxcp24KbOS7irzSFzzg2i_Q9I" />
 ---
 ---
 
@@ -154,5 +154,6 @@
 
 #
 
-
+<center>
 This website was created and is maintained by [Stephanie L. DeMora](https://www.stephaniedemora.com/)
+</center>
