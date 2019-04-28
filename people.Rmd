@@ -337,10 +337,33 @@ Maricruz Ariana Osorio is a graduate student at the University of California, Ri
 
 \
 
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+
 
 
 #### [Beyza Han Tuncez](https://politicalscience.ucr.edu/wp-content/uploads/2014/06/academic-cv.pdf)
 
+<img src="images/Photos/Han.jpg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
+
+\
+
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+</div>
 
 \
 
@@ -348,6 +371,32 @@ Maricruz Ariana Osorio is a graduate student at the University of California, Ri
 
 \
 
+\
+
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
+
+\
 
 
 #### Ding Wang
