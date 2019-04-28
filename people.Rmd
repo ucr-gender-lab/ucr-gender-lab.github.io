@@ -244,10 +244,32 @@ Christian Lindke is a Doctoral student in Political Science at the University of
 
 \
 
+\
+
+\
+
+\
+
+\
+
 
 
 #### Sean Long
 
+<img src="images/Photos/Long.jpg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
+
+\
+
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+Sean Long is a PhD student in Political Science. His primary interests revolve around social identity, political communications, and the media, as well as quantitative methods and text analysis. His non-lab related research has focused on political extremism, local discrimination, and immigration. He also holds an MA in American Government from Georgetown University and a BA in philosophy from Reed College.
+</div>
+
+
+
 
 \
 
@@ -255,6 +277,17 @@ Christian Lindke is a Doctoral student in Political Science at the University of
 
 \
 
+\
+
+\
+
+\
+
+\
+
+\
+
+\
 
 
 #### Arielle Manganiello
