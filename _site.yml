@@ -7,8 +7,8 @@ navbar:
       href: home.html
     - text: "Projects"
       href: projects.html
-    - text: "Membership"
-      href: membership.html
+    - text: "People"
+      href: people.html
     - text: "Activities"
       href: activities.html
 
@@ -17,6 +17,8 @@ navbar:
       href: contact.html
     - icon: fa-twitter fa-lg
       href: https://twitter.com/search?f=tweets&vertical=default&q=UCRGenderLab&src=typd
+    - icon: fa-users fa-lg
+      href: people.html
     - icon: fa-github fa-lg
       href: http://github.com/SDeMora
 
