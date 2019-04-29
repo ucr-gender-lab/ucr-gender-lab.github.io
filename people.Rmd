@@ -130,15 +130,8 @@ Stephen is a doctoral student researcher at the University of California, Rivers
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
+Sierra is a PhD student in the Political Science department at the University of California, Riverside. Her fields of interest are Mass Political Behavior and International Relations. Prior to her attendance at UCR, she was at San Diego State University where she earned her MPA focusing on Policy and Finance. She received her BA in Political Science from the University of California, San Diego. Her research interest is environmental justice.
 </div>
-
-\
-
-\
-
-\
-
-\
 
 \
 
