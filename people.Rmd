@@ -395,7 +395,7 @@ Maricruz Ariana Osorio is a graduate student at the University of California, Ri
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-
+Beyza Han Tuncez is a PhD student in Political Science Department at UCR. Her research centers on Comparative Political Behavior, specifically, ethnic conflict, political behavior and representation of ethnic minorities. She holds a B.S in Political Science and Public Administration from the Middle East Technical University, Turkey and an M.A in Political Science from the University of California, Riverside.
 </div>
 
 \
