@@ -1,0 +1,62 @@
+---
+---
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<center>
+<img src="images/Political_Science_Students.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="middle">
+</center>
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+
+#
+
+<center>
+
+### <u> Political Ambition Group </u>
+#### <i> Women and Political Ambition: Running for Us or Running for Me? </i>
+#### The year 2018 has been dubbed the year of the woman because of the increased number of women not only running for office, but also winning. For the first time in U.S. history, over 100 women are in the U.S. House, with 32 being newly elected. The freshmen class is also among the most diverse in U.S. history. While the national level has received the lion’s share of attention in the media, similar trends have been happening at the state and local level.  What helps to account for this dramatic increase?
+
+
+
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+<center>
+This website was created and is maintained by [Stephanie L. DeMora](https://www.stephaniedemora.com/)
+</center>

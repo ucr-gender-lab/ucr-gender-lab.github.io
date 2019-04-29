@@ -1,0 +1,60 @@
+---
+---
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<center>
+<img src="images/Political_Science_Students.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="middle">
+</center>
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+
+#
+
+<center>
+
+### <u> Gender Stereotypes Group </u>
+#### <i> Counterstereotypic Gender Strategies and Candidate Trait and Issue Evaluations </i>
+#### 2018 is turning out to be another year of the woman, with record numbers of women running for political office. It is therefore imperative to understand some of the challenges and opportunities women face on the campaign trail. The literature to date suggests that women face a fundamental challenge in running for office in that voters do not associate female candidates with the qualities most valued in political leaders including both experience and knowledge. Recent experimental work by Bauer (2017) demonstrates that there are benefits to women endorsing masculine trait competencies, and that this does not necessarily result in losing traditional feminine strengths (e.g., warmth and likability), in particular among co-partisan voters. The present study seeks to replicate and extend the work by Bauer (2017) in examining whether it is beneficial for women to endorse more masculine trait competencies, but we also consider whether counterstereotypic gender strategies also improve competence evaluations across different issue domains, or whether it varies across issues. To test these relationships, we are fielding an experimental study with Qualtrics panelists in the fall of 2018.
+
+
+
+
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+<center>
+This website was created and is maintained by [Stephanie L. DeMora](https://www.stephaniedemora.com/)
+</center>

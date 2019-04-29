@@ -4,12 +4,27 @@ navbar:
   title: "Gender Lab @ UCR"
   left:
     - text: "Home"
+      icon: fa-home fa-lg
       href: home.html
     - text: "Projects"
-      href: projects.html
+      icon: fa-book fa-lg
+      menu:
+        - text: "Women and Political Ambition: Running for Us or Running for Me?"
+          href: DeMora_et_al_2019.html
+        - text: "--------------"
+        - text: "The Muted Effect of #MeToo on Elite’s Civic Engagement Recruitment"
+          href: Burnet_et_al_2019.html
+        - text: "--------------"
+        - text: "Counterstereotypic Gender Strategies and Candidate Trait and Issue Evaluations"
+          href: Manganiello_et_al_2019.html
+        - text: "--------------"
+        - text: "Moral Credit and the 2016 Election: Voting for the Female Candidate to be Sexist"
+          href: El-Khatib_2019.html
     - text: "People"
       href: people.html
+      icon: fa-users fa-lg
     - text: "Activities"
+      icon: fa-female fa-lg
       href: activities.html
 
   right:
@@ -17,8 +32,6 @@ navbar:
       href: contact.html
     - icon: fa-twitter fa-lg
       href: https://twitter.com/search?f=tweets&vertical=default&q=UCRGenderLab&src=typd
-    - icon: fa-users fa-lg
-      href: people.html
     - icon: fa-github fa-lg
       href: http://github.com/SDeMora
 

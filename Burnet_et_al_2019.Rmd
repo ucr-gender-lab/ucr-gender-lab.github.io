@@ -1,0 +1,60 @@
+---
+---
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<center>
+<img src="images/Political_Science_Students.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="middle">
+</center>
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+
+#
+
+<center>
+
+### <u> Audit Study Group </u>
+#### <i> The Muted Effect of #MeToo on Elite’s Civic Engagement Recruitment </i>
+#### <i> A replication and extension of Kalla, Rosenbluth, and Teele (2018) </i>
+#### Activists play a crucial role in local party organizations and, both directly and indirectly, shape national politics (Masket 2009). In addition, activists comprise a substantial portion of candidates (Moncrief, Squire, and Jewell 2001). Using a field experiment with local politicians, combined with text analysis, this exploratory study examines gender differences in activism. This allows us to test whether gender segregation in activism is due to activists’ or agenda setters’ preferences. Do women focus on “women’s” issues because they want to, or because that is what others nudge them to do?
+
+
+
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+<center>
+This website was created and is maintained by [Stephanie L. DeMora](https://www.stephaniedemora.com/)
+</center>
