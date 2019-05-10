@@ -114,10 +114,6 @@ Stephen is a doctoral student researcher at the University of California, Rivers
 
 \
 
-\
-
-\
-
 
 
 #### Sierra Graves
@@ -204,12 +200,6 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 Morgan B. Liedke is a PhD student of Political Science focusing in Mass Political Behavior and Comparative Politics at the University of California, Riverside. Her interests include intersectional gender research, gender and sexuality, and ethnic conflict studies.
 </div>
 
-
-\
-
-\
-
-\
 
 \
 
@@ -323,35 +313,6 @@ Arielle is a 3rd year PhD student in Social Psychology UC Riverside. She present
 
 \
 
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-
 
 #### [Jenn Merolla](https://jennifermerollaphd.wordpress.com/)
 
@@ -368,10 +329,6 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 Jenn is a Professor in the Department of Political Science at the University of California, Riverside. She specializes in the study of Political Behavior. Her research focuses on how the information environment and contexts of threat shape attitudes and political behavior among the public. She is also the field editor in American Behavior for the Journal of Politics.
 </div>
 
-
-\
-
-\
 
 \
 
@@ -494,14 +451,6 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 <div class = "blue">
 Beyza Han Tuncez is a PhD student in Political Science Department at UCR. Her research centers on Comparative Political Behavior, specifically, ethnic conflict, political behavior and representation of ethnic minorities. She holds a B.S in Political Science and Public Administration from the Middle East Technical University, Turkey and an M.A in Political Science from the University of California, Riverside.
 </div>
-
-\
-
-\
-
-\
-
-\
 
 \
 
