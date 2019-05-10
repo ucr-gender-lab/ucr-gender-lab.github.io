@@ -300,8 +300,17 @@ Sean Long is a PhD student in Political Science. His primary interests revolve a
 
 #### Arielle Manganiello
 
-<img src="images/Photos/Manganiello.png" style="width:25%; border:0px solid; margin-right: 50px" align="left">
+<img src="images/Photos/Manganiello.jpg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
 
+\
+
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+Arielle is a 3rd year PhD student in Social Psychology UC Riverside. She presently serves as the UC Advocacy Officer with the UC Riverside Graduate Student Association. The essence of Arielle’s work includes political psychology, broadly speaking, understanding how identity and positionality affect public opinion, candidate evaluations, and voting behavior. In turn, how this influences public policy. Arielle earned her Master's in Counseling and Clinical Health Psychology and Philadelphia College of Osteopathic Medicine. She comes to the UC as a Licensed Professional Counselor in the state of Pennsylvania having a short career in family therapy. Specifically, working with the high need population of children at risk of out-of-home placement and their families. Arielle served as an advocate and therapist for the children and families struggling with mental health disorders, chronic stressors, and systemic barriers. Currently, Arielle seeks to understand the political climate and economy of the UC systems while advocating for graduate and professional students.
+</div>
 \
 
 \
