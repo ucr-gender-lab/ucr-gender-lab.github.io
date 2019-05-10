@@ -153,10 +153,6 @@ Sierra is a PhD student in the Political Science department at the University of
 
 \
 
-\
-
-\
-
 
 
 #### [Michelangelo Landgrave](https://michelangelolandgrave.wordpress.com/)
@@ -196,22 +192,18 @@ Michelangelo Landgrave is a political science doctoral student at the University
 
 #### Morgan Liedke
 
-<img src="images/Photos/Liedke.png" style="width:25%; border:0px solid; margin-right: 50px" align="left">
+<img src="images/Photos/Liedke.jpg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
 
 \
 
 
-\
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+Morgan B. Liedke is a PhD student of Political Science focusing in Mass Political Behavior and Comparative Politics at the University of California, Riverside. Her interests include intersectional gender research, gender and sexuality, and ethnic conflict studies.
+</div>
 
-\
-
-\
-
-\
-
-\
-
-\
 
 \
 
@@ -233,7 +225,9 @@ Michelangelo Landgrave is a political science doctoral student at the University
 
 \
 
+\
 
+\
 
 
 
@@ -342,6 +336,12 @@ Sean Long is a PhD student in Political Science. His primary interests revolve a
 
 \
 
+\
+
+\
+
+\
+
 
 
 #### [Jenn Merolla](https://jennifermerollaphd.wordpress.com/)
@@ -359,6 +359,10 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 Jenn is a Professor in the Department of Political Science at the University of California, Riverside. She specializes in the study of Political Behavior. Her research focuses on how the information environment and contexts of threat shape attitudes and political behavior among the public. She is also the field editor in American Behavior for the Journal of Politics.
 </div>
 
+
+\
+
+\
 
 \
 
@@ -461,6 +465,11 @@ Maricruz Ariana Osorio is a graduate student at the University of California, Ri
 
 \
 
+\
+
+\
+
+\
 
 
 #### [Beyza Han Tuncez](https://politicalscience.ucr.edu/wp-content/uploads/2014/06/academic-cv.pdf)
@@ -476,10 +485,6 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 <div class = "blue">
 Beyza Han Tuncez is a PhD student in Political Science Department at UCR. Her research centers on Comparative Political Behavior, specifically, ethnic conflict, political behavior and representation of ethnic minorities. She holds a B.S in Political Science and Public Administration from the Middle East Technical University, Turkey and an M.A in Political Science from the University of California, Riverside.
 </div>
-
-\
-
-\
 
 \
 
