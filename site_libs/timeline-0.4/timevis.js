@@ -121,11 +121,6 @@ HTMLWidgets.widget({
             typeof opts['options']['height'] === "undefined") {
           opts['options']['height'] = opts['height'];
         }
-        if (opts['timezone'] !== null) {
-          opts['options']['moment'] = function(date) {
-            return vis.moment(date).utcOffset(opts['timezone']);
-          };
-        }
         timeline.setOptions(opts.options);
 
         // Now that the timeline is initialized, call any outstanding API
@@ -205,12 +200,6 @@ HTMLWidgets.widget({
       removeCustomTime : function(params) {
         timeline.removeCustomTime(params.itemId);
       },
-      setCustomTime : function(params) {
-        timeline.setCustomTime(params.time, params.itemId);
-      },
-      setCurrentTime : function(params) {
-        timeline.setCurrentTime(params.time);
-      },
       fitWindow : function(params) {
         timeline.fit(params.options);
       },
@@ -246,7 +235,7 @@ if (HTMLWidgets.shinyMode) {
   var fxns =
     ['addItem', 'addItems', 'removeItem', 'addCustomTime', 'removeCustomTime',
      'fitWindow', 'centerTime', 'centerItem', 'setItems', 'setGroups',
-     'setOptions', 'setSelection', 'setWindow', 'setCustomTime', 'setCurrentTime'];
+     'setOptions', 'setSelection', 'setWindow'];
 
   var addShinyHandler = function(fxn) {
     return function() {
