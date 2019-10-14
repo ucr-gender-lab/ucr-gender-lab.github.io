@@ -26,6 +26,8 @@ navbar:
     - text: "Activities"
       icon: fa-female fa-lg
       href: activities.html
+    - text: "Schedule"
+      href: schedule.html
 
   right:
     - icon: fa-envelope fa-lg

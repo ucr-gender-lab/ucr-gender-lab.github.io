@@ -1,0 +1,74 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+
+## Gender Lab Schedule
+
+<div align="center"><iframe src="https://calendar.google.com/calendar/embed?src=ucrgenderlab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></div>
+
+
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+
+<center> 
+
+This website was created and is maintained by [Stephanie L. DeMora](https://www.stephaniedemora.com/)
+
+</center>
