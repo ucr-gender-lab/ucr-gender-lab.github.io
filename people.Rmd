@@ -6,10 +6,17 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<img src="images/logo_UCRGL.png" style="width:100%; border:0px solid; margin-right: 0px" align="left">
+
+#
+
+\
 
 #
 
 #
+
+\
 
 #
 
@@ -48,11 +55,6 @@ John is a PhD student at the University of California, Riverside. His recent res
 
 \
 
-\
-
-\
-
-\
 
 
 
@@ -69,14 +71,6 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 <div class = "blue">
 Stephanie is a PhD student in the Political Science department, working under Dr. Loren Collingwood. Her sub-fields at UCR are Mass Political Behavior and American Politics. Additionally,  she holds a B.A. in International Relations and Middle Eastern Studies, as well as an M.A. in Political Science from the University of Arkansas. Her previous research includes the socialization of refugee women in the United States, discrimination against religious communities, the effects of identity-based rhetoric.
 </div>
-
-\
-
-\
-
-\
-
-\
 
 \
 
@@ -110,11 +104,6 @@ Stephen is a doctoral student researcher at the University of California, Rivers
 
 \
 
-\
-
-\
-
-
 
 #### Sierra Graves
 
@@ -143,13 +132,6 @@ Sierra is a PhD student in the Political Science department at the University of
 
 \
 
-\
-
-\
-
-\
-
-
 #### Christina Gregory
 
 
@@ -170,13 +152,8 @@ Christina Gregory is a PhD Candidate in Political Science. Her research studies 
 
 \
 
-\
 
-\
-
-
-
-#### [Michelangelo Landgrave](https://michelangelolandgrave.wordpress.com/)
+#### [Michelangelo Landgrave](https://www.michelangelo.mx/)
 
 <img src="images/Photos/Landgrave.jpg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
 

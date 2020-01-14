@@ -8,9 +8,11 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<img src="images/logo_UCRGL.png" style="width:100%; border:0px solid; margin-right: 0px" align="left">
+
 <center>
 
-## Gender Lab Schedule
+## 
 
 <div align="center"><iframe src="https://calendar.google.com/calendar/embed?src=ucrgenderlab%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></div>
 

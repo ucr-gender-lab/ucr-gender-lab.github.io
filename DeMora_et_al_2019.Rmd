@@ -7,30 +7,31 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<img src="images/logo_UCRGL.png" style="width:100%; border:0px solid; margin-right: 0px" align="left">
+
+
+#
+
+#
+
+
+#
+
+
+#
+
+#
+
+#
+
+#
+
+
+#
+
 <center>
-<img src="images/Political_Science_Students.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="middle">
-</center>
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-
-#
-
-<center>
-
-### <u> Political Ambition Group </u>
+### <u> Political Environment Group </u>
 #### <i> Women and Political Ambition: Running for Us or Running for Me? </i>
 #### The year 2018 has been dubbed the year of the woman because of the increased number of women not only running for office, but also winning. For the first time in U.S. history, over 100 women are in the U.S. House, with 32 being newly elected. The freshmen class is also among the most diverse in U.S. history. While the national level has received the lion’s share of attention in the media, similar trends have been happening at the state and local level.  What helps to account for this dramatic increase?
 
@@ -40,6 +41,10 @@
 #
 
 #
+
+<center>
+#### <i> Emotional Engagement in the Year of the Woman </i>
+#### The year 2018 has been dubbed the year of the women because of the increased political engagement of women and the increased number of women not only running, but winning, elections. What is less clear is how different features of the political environment may be shaping this increased political engagement. Are women responding to the threat of Trump? Are they inspired by Hillary Clinton's run for the presidency? Are they motivated by the increased engagement of women on the ground (via the Women's Marches) and online (via the #MeToo movement)? Or, are all of these forces at work in increasing women's engagement and ambition? We argue that all of these factors are likely contributing to women's increased engagement, though the effects may be through different pathways.
 
 #
 

@@ -3,6 +3,8 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<img src="images/logo_UCRGL.png" style="width:100%; border:0px solid; margin-right: 0px" align="left">
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
