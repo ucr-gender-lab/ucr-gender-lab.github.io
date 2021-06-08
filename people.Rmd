@@ -43,7 +43,7 @@
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-John is a PhD student at the University of California, Riverside. His recent research focuses on how technology and pathology can influence political predispositions.
+John is a PhD candidate at the University of California, Riverside. His recent research focuses on how technology and pathology can influence political predispositions.
 </div>
 
 
@@ -69,7 +69,7 @@ John is a PhD student at the University of California, Riverside. His recent res
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-Stephanie is a PhD student in the Political Science department, working under Dr. Loren Collingwood. Her sub-fields at UCR are Mass Political Behavior and American Politics. Additionally,  she holds a B.A. in International Relations and Middle Eastern Studies, as well as an M.A. in Political Science from the University of Arkansas. Her previous research includes the socialization of refugee women in the United States, discrimination against religious communities, the effects of identity-based rhetoric.
+Stephanie is a PhD candidate in the Political Science department, working under Dr. Loren Collingwood. Her sub-fields at UCR are Mass Political Behavior and American Politics. Additionally,  she holds a B.A. in International Relations and Middle Eastern Studies, as well as an M.A. in Political Science from the University of Arkansas. Her previous research includes the socialization of refugee women in the United States, discrimination against religious communities, the effects of identity-based rhetoric.
 </div>
 
 \
@@ -105,33 +105,6 @@ Stephen is a doctoral student researcher at the University of California, Rivers
 \
 
 
-#### Sierra Graves
-
-<img src="images/Photos/Graves.jpg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
-
-\
-
-<style>
-div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
-</style>
-<div class = "blue">
-Sierra is a PhD student in the Political Science department at the University of California, Riverside. Her fields of interest are Mass Political Behavior and International Relations. Prior to her attendance at UCR, she was at San Diego State University where she earned her MPA focusing on Policy and Finance. She received her BA in Political Science from the University of California, San Diego. Her research interest is environmental justice.
-</div>
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
 #### Christina Gregory
 
 
@@ -151,41 +124,6 @@ Christina Gregory is a PhD Candidate in Political Science. Her research studies 
 \
 
 \
-
-
-#### [Michelangelo Landgrave](https://www.michelangelo.mx/)
-
-<img src="images/Photos/Landgrave.jpg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
-
-\
-
-
-<style>
-div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
-</style>
-<div class = "blue">
-Michelangelo Landgrave is a political science doctoral candidate at the University of California, Riverside. His research focuses on local politics and policy. His research has appeared in the Washington Post, The Hill, Vox, and other news outlets. He holds a master’s degree in Economics from California State University, Long Beach. He is a doctoral fellow with the Mexican National Council of Science and Technology (Conacyt).
-</div>
-
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
 
 
 #### Morgan Liedke
@@ -261,7 +199,7 @@ Christian Lindke is a Doctoral candidate in Political Science at the University 
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-Sean Long is a PhD student in Political Science. His primary interests revolve around social identity, political communications, and the media, as well as quantitative methods and text analysis. His non-lab related research has focused on political extremism, local discrimination, and immigration. He also holds an MA in American Government from Georgetown University and a BA in philosophy from Reed College.
+Sean Long is a PhD candidate in Political Science. His primary interests revolve around social identity, political communications, and the media, as well as quantitative methods and text analysis. His non-lab related research has focused on political extremism, local discrimination, and immigration. He also holds an MA in American Government from Georgetown University and a BA in philosophy from Reed College.
 </div>
 
 
@@ -345,56 +283,6 @@ Jenn is a Professor in the Department of Political Science at the University of 
 \
 
 \
-
-
-#### Adriana Ninci
-
-<img src="images/Photos/Ninci.png" style="width:25%; border:0px solid; margin-right: 50px" align="left">
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-\
-
-\
-
-\
-
-\
-
-\
-
-\
-
-
-
-
 
 
 #### [Maricruz Ariana Osorio](http://www.mosorio.info/)

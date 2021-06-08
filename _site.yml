@@ -18,11 +18,12 @@ navbar:
         - text: "Counterstereotypic Gender Strategies and Candidate Trait and Issue Evaluations"
           href: Manganiello_et_al_2019.html
         - text: "--------------"
-        - text: "Moral Credit and the 2016 Election: Voting for the Female Candidate to be Sexist"
-          href: El-Khatib_2019.html
-    - text: "People"
+    - text: "Members"
       href: people.html
       icon: fa-users fa-lg
+    - text: "Alumni"
+      href: alumni.html
+      icon: fa-user-graduate fa-lg
     - text: "Activities"
       icon: fa-female fa-lg
       href: activities.html
