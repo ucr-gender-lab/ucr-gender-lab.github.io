@@ -34,9 +34,9 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
-    - icon: fa-twitter fa-lg
+    - icon: fab fa-twitter fa-lg
       href: https://twitter.com/search?f=tweets&vertical=default&q=UCRGenderLab&src=typd
-    - icon: fa-github fa-lg
+    - icon: fab fa-github fa-lg
       href: http://github.com/SDeMora
 
 output:
