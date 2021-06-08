@@ -255,11 +255,7 @@ Christian Lindke is a Doctoral candidate in Political Science at the University 
 
 
 #### Sean Long
-
-<img src="images/Photos/Long.jpg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
-
 \
-
 
 <style>
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}

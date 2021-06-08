@@ -1,42 +1,55 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>activities.utf8.md</title>
+<title>activities.knit</title>
 
+<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<script src="site_libs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+<script src="site_libs/htmlwidgets-1.5.3/htmlwidgets.js"></script>
 <link href="site_libs/vis-4.16.1/vis.min.css" rel="stylesheet" />
 <script src="site_libs/vis-4.16.1/vis.min.js"></script>
 <link href="site_libs/timeline-0.4/timevis.css" rel="stylesheet" />
-<script src="site_libs/timevis-binding-0.5/timevis.js"></script>
+<script src="site_libs/timevis-binding-1.0.0/timevis.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -49,32 +62,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -85,10 +73,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -105,40 +89,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -166,7 +123,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -178,7 +135,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -189,10 +146,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -204,7 +174,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -240,6 +209,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -281,14 +251,14 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li>
   <a href="home.html">
-    <span class="fa fa-home fa-lg"></span>
+    <span class="fas fa-home fa-lg"></span>
      
     Home
   </a>
 </li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    <span class="fa fa-book fa-lg"></span>
+    <span class="fas fa-book fa-lg"></span>
      
     Projects
      
@@ -314,21 +284,21 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="people.html">
-    <span class="fa fa-users fa-lg"></span>
+    <span class="fas fa-users fa-lg"></span>
      
     People
   </a>
 </li>
 <li>
   <a href="activities.html">
-    <span class="fa fa-female fa-lg"></span>
+    <span class="fas fa-female fa-lg"></span>
      
     Activities
   </a>
 </li>
 <li>
   <a href="schedule.html">
-    <span class="fa fa-calendar-alt fa-lg"></span>
+    <span class="fas fa-calendar-alt fa-lg"></span>
      
     Schedule
   </a>
@@ -337,19 +307,19 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=UCRGenderLab&amp;src=typd">
-    <span class="fa fa-twitter fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/SDeMora">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
@@ -358,7 +328,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -366,19 +336,22 @@ $(document).ready(function () {
 </div>
 
 
+<div id="section" class="section level2">
+<h2>—</h2>
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <p><img src="images/logo_UCRGL.png" style="width:100%; border:0px solid; margin-right: 0px" align="left"></p>
 <center>
+</div>
 <div id="gender-lab-activity-timeline" class="section level2">
 <h2>Gender Lab Activity Timeline</h2>
 <center>
-<div id="htmlwidget-895f816e5e40d7977a75" class="timevis html-widget" style="width:672px;height:480px;">
+<div id="htmlwidget-4ac103ec2ff7c5254e37" class="timevis html-widget" style="width:672px;height:480px;">
 <div class="btn-group zoom-menu">
 <button type="button" class="btn btn-default btn-lg zoom-in" title="Zoom in">+</button>
 <button type="button" class="btn btn-default btn-lg zoom-out" title="Zoom out">-</button>
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-895f816e5e40d7977a75">{"x":{"items":[{"id":"1","content":"ISPP Conference in Lisbon","start":"2019-07-01"},{"id":"2","content":"ECPG Conference in Amsterdam","start":"2019-06-01"},{"id":"3","content":"WPSA Panel in San Diego","start":"2019-03-15"},{"id":"4","content":"MPSA Junior Scholar Symposium in Chicago","start":"2019-03-01"},{"id":"5","content":"Gender Lab Begins at UCR","start":"2018-03-01"},{"id":"6","content":"POSC-259","start":"2018-01-01"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"api":[]},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-4ac103ec2ff7c5254e37">{"x":{"items":[{"id":"1","content":"ISPP Conference in Lisbon","start":"2019-07-01"},{"id":"2","content":"ECPG Conference in Amsterdam","start":"2019-06-01"},{"id":"3","content":"WPSA Panel in San Diego","start":"2019-03-15"},{"id":"4","content":"MPSA Junior Scholar Symposium in Chicago","start":"2019-03-01"},{"id":"5","content":"Gender Lab Begins at UCR","start":"2018-03-01"},{"id":"6","content":"POSC-259","start":"2018-01-01"}],"groups":null,"showZoom":true,"zoomFactor":0.5,"fit":true,"options":[],"height":null,"timezone":null,"api":[]},"evals":[],"jsHooks":[]}</script>
 <div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;">
 
 </div>
@@ -393,41 +366,41 @@ $(document).ready(function () {
 <h4>Teams present research at WPSA.</h4>
 </div>
 </div>
-<div id="section" class="section level1">
+<div id="section-1" class="section level1">
 <h1></h1>
 </div>
-<div id="section-1" class="section level1">
+<div id="section-2" class="section level1">
 <h1></h1>
 <center>
 <img src="images/wpsa4.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="middle">
 </center>
 </div>
-<div id="section-2" class="section level1">
+<div id="section-3" class="section level1">
 <h1></h1>
 </div>
-<div id="section-3" class="section level1">
+<div id="section-4" class="section level1">
 <h1></h1>
 <center>
 <div id="teams-present-research-at-mpsa." class="section level4">
 <h4>Teams present research at MPSA.</h4>
 </div>
 </div>
-<div id="section-4" class="section level1">
+<div id="section-5" class="section level1">
 <h1></h1>
 </div>
-<div id="section-5" class="section level1">
+<div id="section-6" class="section level1">
 <h1></h1>
 <center>
 <img src="images/MPSA.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="middle">
 </center>
 </div>
-<div id="section-6" class="section level1">
-<h1></h1>
-</div>
 <div id="section-7" class="section level1">
 <h1></h1>
 </div>
 <div id="section-8" class="section level1">
+<h1></h1>
+</div>
+<div id="section-9" class="section level1">
 <h1></h1>
 <hr />
 <center>
@@ -444,13 +417,13 @@ $(document).ready(function () {
 </div>
 </div>
 </div>
-<div id="section-9" class="section level1">
-<h1></h1>
-</div>
 <div id="section-10" class="section level1">
 <h1></h1>
 </div>
 <div id="section-11" class="section level1">
+<h1></h1>
+</div>
+<div id="section-12" class="section level1">
 <h1></h1>
 <hr />
 <center>
@@ -461,13 +434,13 @@ $(document).ready(function () {
 </div>
 </div>
 </div>
-<div id="section-12" class="section level1">
-<h1></h1>
-</div>
 <div id="section-13" class="section level1">
 <h1></h1>
 </div>
 <div id="section-14" class="section level1">
+<h1></h1>
+</div>
+<div id="section-15" class="section level1">
 <h1></h1>
 <hr />
 <center>
@@ -478,13 +451,13 @@ $(document).ready(function () {
 </div>
 </div>
 </div>
-<div id="section-15" class="section level1">
-<h1></h1>
-</div>
 <div id="section-16" class="section level1">
 <h1></h1>
 </div>
 <div id="section-17" class="section level1">
+<h1></h1>
+</div>
+<div id="section-18" class="section level1">
 <h1></h1>
 <hr />
 <center>
@@ -501,19 +474,19 @@ $(document).ready(function () {
 </div>
 </div>
 </div>
-<div id="section-18" class="section level1">
-<h1></h1>
-</div>
 <div id="section-19" class="section level1">
 <h1></h1>
 </div>
 <div id="section-20" class="section level1">
 <h1></h1>
+</div>
+<div id="section-21" class="section level1">
+<h1></h1>
 <hr />
 <center>
 <div id="winter-2018" class="section level2">
 <h2><strong>Winter 2018</strong></h2>
-<div id="dr.jennifer-merollas-women-and-the-american-political-process-course-posc-259-is-taught." class="section level4">
+<div id="dr.-jennifer-merollas-women-and-the-american-political-process-course-posc-259-is-taught." class="section level4">
 <h4>Dr. Jennifer Merolla’s Women and the American Political Process course (POSC 259) is taught.</h4>
 </div>
 <div id="ideas-for-first-round-of-teams-are-created." class="section level4">
@@ -521,9 +494,6 @@ $(document).ready(function () {
 </center>
 </div>
 </div>
-</div>
-<div id="section-21" class="section level1">
-<h1></h1>
 </div>
 <div id="section-22" class="section level1">
 <h1></h1>
@@ -596,6 +566,9 @@ $(document).ready(function () {
 </div>
 <div id="section-45" class="section level1">
 <h1></h1>
+</div>
+<div id="section-46" class="section level1">
+<h1></h1>
 <center>
 <p>This website was created and is maintained by <a href="https://www.stephaniedemora.com/">Stephanie L. DeMora</a></p>
 </center>
@@ -610,7 +583,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -628,7 +601,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
