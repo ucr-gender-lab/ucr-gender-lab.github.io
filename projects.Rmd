@@ -39,19 +39,6 @@
 
 <center>
 
-### <u> Audit Study Group </u>
-#### <i> The Muted Effect of #MeToo on Elite’s Civic Engagement Recruitment </i>
-#### <i> A replication and extension of Kalla, Rosenbluth, and Teele (2018) </i>
-#### Activists play a crucial role in local party organizations and, both directly and indirectly, shape national politics (Masket 2009). In addition, activists comprise a substantial portion of candidates (Moncrief, Squire, and Jewell 2001). Using a field experiment with local politicians, combined with text analysis, this exploratory study examines gender differences in activism. This allows us to test whether gender segregation in activism is due to activists’ or agenda setters’ preferences. Do women focus on “women’s” issues because they want to, or because that is what others nudge them to do?
-
-#
-
-#
-
-#
-
-<center>
-
 ### <u> Gender Stereotypes Group </u>
 #### <i> Counterstereotypic Gender Strategies and Candidate Trait and Issue Evaluations </i>
 #### 2018 is turning out to be another year of the woman, with record numbers of women running for political office. It is therefore imperative to understand some of the challenges and opportunities women face on the campaign trail. The literature to date suggests that women face a fundamental challenge in running for office in that voters do not associate female candidates with the qualities most valued in political leaders including both experience and knowledge. Recent experimental work by Bauer (2017) demonstrates that there are benefits to women endorsing masculine trait competencies, and that this does not necessarily result in losing traditional feminine strengths (e.g., warmth and likability), in particular among co-partisan voters. The present study seeks to replicate and extend the work by Bauer (2017) in examining whether it is beneficial for women to endorse more masculine trait competencies, but we also consider whether counterstereotypic gender strategies also improve competence evaluations across different issue domains, or whether it varies across issues. To test these relationships, we are fielding an experimental study with Qualtrics panelists in the fall of 2018.
@@ -65,11 +52,9 @@
 
 <center>
 
-### <u> Moral Credit & Debt Group </u>
-#### <i> Moral Credit and the 2016 Election: Voting for the Female Candidate to be Sexist </i>
-#### In 2016 Americans had the opportunity to either vote for the first major female presidential nominee, Hillary Clinton, or one of the most sexually and racially controversial candidates in modern American history, Donald Trump. Due to Trump's reprehensible rhetoric, it was often publicly argued that supporting Clinton was the more morally admirable decision.  Though, to date, there is little research which has comprehensively examined the psychological effects of supporting these two candidates.  Previous literature regarding the 2008 election of Barack Obama informs us that supporting a Black presidential candidate can make individuals feel “morally credentialed” to favor providing resources to White people at the behest of Black people (Effron et al., 2009).  Do these findings replicate when supporting female candidates?  Will feelings of moral credit influence political attitudes and policy preferences on topics related to gender?  This work answers these questions through a series of experimental designs comparable with the existing political psychology literature on morality.  Findings from this work are part of a greater project to explore the ways that individuals rationalize seemingly contradictory political preferences.
-
-</center>
+### <u> Emotional Engagement Group </u>
+#### <i> Emotional Engagement in the Year of the Woman </i>
+#### Women have become more deeply engaged in politics since the 2016 election. The historic nature of that election allows it to serve as an important case study in understanding how the political environment can shape emotional reactions and engagement for women. We argue that gendered features of the political environment from that election and its aftermath influenced emotional reactions to politics in distinct ways and more strongly for Democratic women, and in turn led to increased engagement. We use experimental designs in which participants were randomly assigned vignettes about Trump’s treatment of women, Clinton’s historic run for office, the Women’s Marches, or the #MeToo movement. Reading about Trump’s treatment of women led to higher anger, especially among Democratic women, while reading about Clinton’s run for office increased enthusiasm among highly educated women. These elevated emotions increased intended future engagement.
 
 
 

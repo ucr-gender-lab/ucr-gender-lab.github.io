@@ -1,0 +1,59 @@
+---
+---
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/logo_UCRGL.png" style="width:100%; border:0px solid; margin-right: 0px" align="left">
+
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+
+#
+
+<center>
+
+### <u> Emotional Engagement Group </u>
+#### <i> Emotional Engagement in the Year of the Woman </i>
+#### Women have become more deeply engaged in politics since the 2016 election. The historic nature of that election allows it to serve as an important case study in understanding how the political environment can shape emotional reactions and engagement for women. We argue that gendered features of the political environment from that election and its aftermath influenced emotional reactions to politics in distinct ways and more strongly for Democratic women, and in turn led to increased engagement. We use experimental designs in which participants were randomly assigned vignettes about Trump’s treatment of women, Clinton’s historic run for office, the Women’s Marches, or the #MeToo movement. Reading about Trump’s treatment of women led to higher anger, especially among Democratic women, while reading about Clinton’s run for office increased enthusiasm among highly educated women. These elevated emotions increased intended future engagement.
+
+
+
+
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+<center>
+This website was created and is maintained by [Stephanie L. DeMora](https://www.stephaniedemora.com/)
+</center>
