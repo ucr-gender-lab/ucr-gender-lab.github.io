@@ -18,6 +18,9 @@ navbar:
         - text: "Counterstereotypic Gender Strategies and Candidate Trait and Issue Evaluations"
           href: Manganiello_et_al_2019.html
         - text: "--------------"
+    - text: "Publications"
+      href: publications.html
+      icon: fa-newspaper fa-lg
     - text: "Members"
       href: people.html
       icon: fa-users fa-lg
