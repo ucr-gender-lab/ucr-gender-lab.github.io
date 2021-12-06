@@ -35,7 +35,7 @@
 
 #### [Michelangelo Landgrave](https://www.michelangelo.mx/)
 
-<img src="images/Photos/Landgrave.jpg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
+<img src="images/Photos/MichelangeloLandgrave_092721_0010.jpeg" style="width:25%; border:0px solid; margin-right: 50px" align="left">
 
 \
 
@@ -44,7 +44,13 @@
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 <div class = "blue">
-Michelangelo Landgrave is a political science doctoral candidate at the University of California, Riverside. His research focuses on local politics and policy. His research has appeared in the Washington Post, The Hill, Vox, and other news outlets. He holds a master’s degree in Economics from California State University, Long Beach. He is a doctoral fellow with the Mexican National Council of Science and Technology (Conacyt).
+Michelangelo Landgrave specializes in state and local politics, legislative studies and race, ethnic & immigration politics. His Political Science PhD is from the University of California, Riverside.  He also holds a Master's degree in Economics from California State University, Long Beach.
+\
+
+He is a joint postdoctoral research associate at Princeton University's Department of Politics and the Center for the Study of Democratic Politics for the 2021-2022 academic year. He is also an associate fellow at the Office of Evaluation Sciences in the General Services Administration of the US Federal Government. Starting fall 2022 he will be joining the Harry S. Truman School of Government and Public Affairs at the University of Missouri.
+\
+
+He was previously a joint predoctoral fellow with the Mexican National Council of Science and Technology and the University of California Institute for Mexico and the United States (2016 - 2021). He was an American Political Science Association minority fellow (Spring 2018). His peer reviewed research has appeared or is forthcoming in Political Analysis, State Politics & Policy Quarterly, American Politics Research, Legislative Studies Quarterly, PS: Political Science & Politics, Journal of Economic Behavior & Organization and Journal of Behavioral Public Administration.
 </div>
 
 
