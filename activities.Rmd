@@ -190,9 +190,3 @@ timevis(data)
 
 #
 
-
-<center> 
-
-This website was created and is maintained by [Stephanie L. DeMora](https://www.stephaniedemora.com/)
-
-</center>

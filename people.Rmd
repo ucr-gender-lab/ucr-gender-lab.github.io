@@ -405,9 +405,3 @@ Beyza Han Tuncez is a PhD student in Political Science Department at UCR. Her re
 
 #
 
-
-<center> 
-
-This website was created and is maintained by [Stephanie L. DeMora](https://www.stephaniedemora.com/)
-
-</center>
